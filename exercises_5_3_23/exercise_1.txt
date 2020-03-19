@@ -1,0 +1,6 @@
+start indicates at what number the generator should start (default 0)
+
+stop indicates beyond which number the generator should stop, this number will not be included
+    *note that beyond depends on whether you are going "up" or "down" i.e. whether step is positive or negative
+
+step indicates what should be added to start each step. step should bring the current value closer to stop
